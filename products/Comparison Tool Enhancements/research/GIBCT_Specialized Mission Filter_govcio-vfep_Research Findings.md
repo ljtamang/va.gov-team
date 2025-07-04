@@ -1,5 +1,7 @@
 # GI Bill Comparison Tool, Specialized Mission Filter Research Findings 
 
+## EDITED
+
 **Office of the CTO - Digital Experience (OCTO-DE), GI Bill Comparison Tool, Specialized Mission Filter, Team Name: govcio-vfep**
 
 Date: 09/25 - 09/29/2023
